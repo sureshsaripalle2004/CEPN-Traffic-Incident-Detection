@@ -93,6 +93,7 @@ CEPN-Traffic-Incident-Detection/
 
 ## Google Colab Implementation
 
-The complete implementation of the proposed CEPN framework, including preprocessing, feature extraction, DEPS calculation, machine-learning classification, SHAP-based analysis, and experimental evaluation, is available in the following Google Colab notebook:
+The complete implementation of the proposed CEPN framework and the experimental workflow are provided in the following Google Colab notebook. The notebook contains the preprocessing, visual and acoustic feature extraction, DEPS computation, Random Forest classification, SHAP-based analysis, and evaluation procedures used in the study.
 
-[Open CEPN Implementation in Google Colab] https://colab.research.google.com/drive/160iTtJ-4iPuErJjMhE3sGaCVHumBI1H1?usp=sharing
+**Google Colab Notebook:**  
+[Open CEPN Implementation](https://colab.research.google.com/drive/160iTtJ-4iPuErJjMhE3sGaCVHumBI1H1?usp=sharing)
