@@ -1,0 +1,9 @@
+numpy
+pandas
+opencv-python
+librosa
+scikit-learn
+matplotlib
+seaborn
+ultralytics
+shap
