@@ -88,6 +88,11 @@ The experimental evaluation includes:
 CEPN-Traffic-Incident-Detection/
 │
 ├── README.md
-├── CEPN_Project.ipynb
 ├── requirements.txt
 └── figures/
+
+## Google Colab Implementation
+
+The complete implementation of the proposed CEPN framework, including preprocessing, feature extraction, DEPS calculation, machine-learning classification, SHAP-based analysis, and experimental evaluation, is available in the following Google Colab notebook:
+
+[Open CEPN Implementation in Google Colab] https://colab.research.google.com/drive/160iTtJ-4iPuErJjMhE3sGaCVHumBI1H1?usp=sharing
