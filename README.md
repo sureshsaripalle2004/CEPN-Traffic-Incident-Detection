@@ -56,6 +56,18 @@ The main implementation is provided as a Google Colab-compatible Jupyter Noteboo
 
 The notebook contains the preprocessing, feature extraction, DEPS computation, machine-learning classification, explainability analysis, and evaluation procedures used in the study.
 
+## CEPN Architecture
+
+![CEPN Architecture](architecture.jpeg)
+
+## Feature Importance
+
+![Feature Importance](feature_importance.jpeg)
+
+## Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.jpeg)
+
 ## Requirements
 
 The implementation uses Python and commonly used machine-learning and multimedia-processing libraries, including:
