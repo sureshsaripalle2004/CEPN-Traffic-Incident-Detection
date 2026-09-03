@@ -82,15 +82,6 @@ The experimental evaluation includes:
 - Feature importance
 - Comparison with a visual-only baseline
 
-## Repository Structure
-
-```text
-CEPN-Traffic-Incident-Detection/
-│
-├── README.md
-├── requirements.txt
-└── figures/
-
 ## Google Colab Implementation
 
 The complete implementation of the proposed CEPN framework and the experimental workflow are provided in the following Google Colab notebook. The notebook contains the preprocessing, visual and acoustic feature extraction, DEPS computation, Random Forest classification, SHAP-based analysis, and evaluation procedures used in the study.
